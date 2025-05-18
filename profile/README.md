@@ -1,8 +1,10 @@
 # Welcome to Moonward Games! 👋
 
-Moonward Games is a small, fully remote game studio passionate about creating unique and engaging experiences. We are the studio behind the upcoming Action RPG Roblox Game, [Beyond Regression](https://beyondregression.com).
+Moonward Games is a small, fully remote game studio passionate about creating unique and engaging experiences.
 
-## Beyond Regression 🗡️🩸
+## Our Games 
+
+### Beyond Regression 🗡️🩸
 
 ![Beyond Regression Header](https://i.imgur.com/MWARC7e.png)
 
