@@ -1,10 +1,10 @@
-# Welcome to Moonward Games! 👋
+# Welcome to Moonward Games! 🌒 👋
 
 Moonward Games is a small, fully remote game studio passionate about creating unique and engaging experiences.
 
-## Our Games 
+## Our Games
 
-### Beyond Regression 🗡️🩸
+### Beyond Regression
 
 ![Beyond Regression Header](https://i.imgur.com/MWARC7e.png)
 
