@@ -1,6 +1,6 @@
-# Welcome to Moonward Games! 🌒 👋
+# Welcome to Rend Games! 🌒 👋
 
-Moonward Games is a small, fully remote game studio passionate about creating unique and engaging experiences.
+Rend Games is a small, fully remote game studio passionate about creating unique and engaging experiences.
 
 ## Our Games
 
